@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Public",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 12,
+        "name": "Index.html",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 21,
+        "name": "Components",
+        "isFolder": true,
+        "children": [
+          {
+            "id": 213,
+            "name": "page.jsx",
+            "isFolder": false
+          },
+          {
+            "id": 214,
+            "name": "menu.jsx",
+            "isFolder": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "package.json",
+    "isFolder": false
+  }
+]
