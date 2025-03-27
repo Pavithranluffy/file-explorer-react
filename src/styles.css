@@ -8,3 +8,14 @@
   text-align: left;
   padding-left: 1rem;
 }
+.pointer {
+  cursor: pointer;
+}
+
+.icons{
+  img{
+    width:20px;
+    margin-left:5px;
+  }
+  
+}
